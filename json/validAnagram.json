@@ -1,0 +1,6 @@
+{
+    "method": "validAnagram",
+    "params": ["live", "evil"], 
+    "param_types": ["str", "str"],
+    "id": 4
+}

@@ -1,0 +1,6 @@
+{
+    "method": "nroot",
+    "params": [4, 16],
+    "param_types": ["int", "int"],
+    "id": 2
+}
